@@ -10,6 +10,8 @@ class first extends StatefulWidget {
 class _firstState extends State<first> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+      body: Container(),
+    );
   }
 }
